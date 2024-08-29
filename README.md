@@ -35,4 +35,20 @@ github.com
   - Git operations protocol: https
   - Token: ghp_************************************
   
-  eu preferir usar o GitHub Desktop https://desktop.github.com/download/      
+  eu preferir usar o GitHub Desktop https://desktop.github.com/download/ 
+  
+resumo de aguns dos comandos basicos do Cli.githu: 
+Clonar um repositório do GitHub para o seu computador local:
+# gh repo clone owner/repository-name
+Exemplo:
+# gh repo clone 0joseDark/browser
+Criar um novo repositório
+# gh repo create my-new-repo --public
+ou
+# gh repo create my-private-repo --private
+Listar repositórios
+# gh repo list username
+Exemplo:
+# gh repo list 0joseDark
+...etc
+
