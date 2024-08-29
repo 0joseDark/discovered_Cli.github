@@ -3,7 +3,7 @@ em windows baixr https://cli.github.com/´ , e instalar o msi
  commands_Cli.github
  eu preferir usar um ficheiro para login  https://cli.github.com/manual/gh_auth_login
  assim pode gerar a chave em https://github.com/settings/tokens
- na pasta onde a pasta fazer um ficheiro detesto de nome ásua ecola, eu escolhi token.txt
+ na pasta githud fazer o ficheiro token.txt com a have dentro, ou com ootro nome
  # Start interactive setup
 $ gh auth login
 
