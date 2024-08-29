@@ -34,3 +34,5 @@ github.com
   - Active account: true
   - Git operations protocol: https
   - Token: ghp_************************************
+  
+  eu preferir usar o GitHub Desktop https://desktop.github.com/download/      
