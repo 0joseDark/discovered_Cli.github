@@ -1,10 +1,10 @@
 # discovered Cli.github
-em windows baixar https://cli.github.com/´ , e instalar o msi
- commands_Cli.github
- eu preferir usar um ficheiro para login  https://cli.github.com/manual/gh_auth_login
- assim pode gerar a chave em https://github.com/settings/tokens
- na pasta documentos, onde está a pasta  githud fazer o ficheiro token.txt com a chave dentro
- abrir o power shell do windows
+- em windows ou linux baixar https://cli.github.com/´ , e instalar o msi
+- commands_Cli.github
+- eu preferir usar um ficheiro para login  https://cli.github.com/manual/gh_auth_login
+- assim pode gerar a chave em https://github.com/settings/tokens
+- na pasta documentos, onde está a pasta  githud fazer o ficheiro token.txt com a chave dentro
+- abrir o power shell do windows
 # Start interactive setup
 $ gh auth login
 
