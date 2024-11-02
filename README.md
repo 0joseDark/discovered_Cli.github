@@ -1,4 +1,4 @@
-# discovered_Cli.github
+# discovered Cli.github
 em windows baixar https://cli.github.com/´ , e instalar o msi
  commands_Cli.github
  eu preferir usar um ficheiro para login  https://cli.github.com/manual/gh_auth_login
